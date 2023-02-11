@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Built by Malingas Cumbane'),
+      home: const MyHomePage(title: 'Flutterando'),
     );
   }
 }
